@@ -1,0 +1,10 @@
+﻿  firstReadFile.c
+  labelTable.c
+  main.c
+  secondReadFile.c
+  sortError.c
+  transBasis.c
+  useful.c
+  Generating Code...
+C:\Users\hagay\Downloads\AssemblerProject\project\sortError.c(40,25): warning C4013: 'strlen' undefined; assuming extern returning int
+  assembler.vcxproj -> C:\Users\hagay\source\repos\assembler\Debug\assembler.exe
